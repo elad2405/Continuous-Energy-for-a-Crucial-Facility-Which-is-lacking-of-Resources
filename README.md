@@ -26,8 +26,8 @@
 
 
 # Matlab 
-	-  Verify that version 9.5 (R2018b) of the MATLAB is installed or newer. 
-	-  Run main.m file
+-  Verify that version 9.5 (R2018b) of the MATLAB is installed or newer. 
+-  Run main.m file
 ### Explanations: 
 1. This matlab application uses data from csv files. 
 	- Make sure that all the csv files are on the same path of the project.
